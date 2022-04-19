@@ -10,6 +10,8 @@ import Events from './Pages/Events/Events';
 import Student from './Pages/Student/Student';
 import Contact from './Pages/Contact/Contact';
 import Footer from './Footer/Footer';
+import SignUp from './Authentication/SignUp/SignUp';
+import SignIn from './Authentication/SignIn/SignIn';
 
 const MainComponent = () => {
     return (
@@ -24,6 +26,8 @@ const MainComponent = () => {
                 <Route path='/events' element={<Events></Events>}></Route>
                 <Route path='/student' element={<Student></Student>}></Route>
                 <Route path='/contact' element={<Contact></Contact>}></Route>
+                <Route path='/sign-up' element={<SignUp></SignUp>}></Route>
+                <Route path='/sign-in' element={<SignIn></SignIn>}></Route>
             </Routes>
             <Footer></Footer>
         </div>

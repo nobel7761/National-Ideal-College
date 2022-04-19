@@ -26,8 +26,6 @@ const NavbarList = () => {
                                     <CustomLink to="/events" className='nav-link'>Events</CustomLink>
                                     <CustomLink to="/student" className='nav-link'>Student</CustomLink>
                                     <CustomLink to="/contact" className='nav-link'>Contact Us</CustomLink>
-
-
                                 </Nav>
                             </Navbar.Collapse>
                         </Navbar>

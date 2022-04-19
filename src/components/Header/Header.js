@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Header.css';
 import NavbarList from './NavbarList/NavbarList';
 import SearchBar from './SearchBar/SearchBar';
@@ -22,9 +23,9 @@ const Header = () => {
                             {/* icons will be here */}
                         </div>
                         <div>
+                            <Link to='/sign-up'><button style={{ marginRight: '5px' }}>Sign Up</button></Link>
+                            <Link to='/sign-in'><button>Sign In</button></Link>
 
-                            <button style={{ marginRight: '5px' }}>Sign In</button>
-                            <button>Sign Up</button>
                         </div>
                     </div>
                 </div>
