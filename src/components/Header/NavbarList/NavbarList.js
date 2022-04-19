@@ -3,16 +3,18 @@ import './NavbarList.css';
 import CustomLink from '../../CustomLink/CustomLink';
 import Logo from '../../../images/NIC.png'
 import { Nav, Navbar } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 const NavbarList = () => {
     return (
         <div className="navbar-container">
             <div className="container">
                 <div className="menu">
-                    <div className='menu-left'>
+
+                    <Link to='/' className='menu-left'>
                         <img src={Logo} alt="" />
                         <h3>NATIONAL IDEAL COLLEGE</h3>
-                    </div>
+                    </Link>
                     <div>
                         <Navbar expand="lg">
                             <Navbar.Toggle aria-controls="basic-navbar-nav" />
