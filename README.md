@@ -1,10 +1,22 @@
-step 1. collaborate 
-2. accept invitation 
-3.git branch branchName 
-4.git checkout brachName 
-5.make change to your code 
-6.git add .7.git commit -m "as you need " 
-8.git push --set-upstream origin branchName 
-9.git merge branchName 
-10.git pull 
-11.git push
+## Give Permission to Collaborate On Existing Repo:
+
+- go to the repo
+- settings 
+- collaborators
+- add people
+- provide username or full name or email
+- select the user from the suggestion 
+- Add "user" to this repository
+
+## After Receive Permission Steps I have to merge all branches: 
+
+- collaborate 
+- accept invitation 
+- git branch branchName 
+- git checkout brachName 
+- make change to your code 
+- git add .7.git commit -m "as you need " 
+- git push --set-upstream origin branchName 
+- git merge branchName 
+- git pull 
+- git push
