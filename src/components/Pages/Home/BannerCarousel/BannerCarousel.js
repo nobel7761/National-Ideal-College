@@ -3,10 +3,10 @@ import { Carousel } from 'react-bootstrap';
 import Image1 from '../../../../images/carousel/1.jpg';
 import Image2 from '../../../../images/carousel/2.jpg';
 import Image3 from '../../../../images/carousel/3.jpg';
-import icon1 from '../../../../images/h-ic1.png';
-import icon2 from '../../../../images/h-ic2.png';
-import icon3 from '../../../../images/h-ic3.png';
-import icon4 from '../../../../images/h-ic4.png';
+import icon1 from '../../../../images/carousel/h-ic1.png';
+import icon2 from '../../../../images/carousel/h-ic2.png';
+import icon3 from '../../../../images/carousel/h-ic3.png';
+import icon4 from '../../../../images/carousel/h-ic4.png';
 import './BannerCarousel.css';
 const BannerCarousel = () => {
 
