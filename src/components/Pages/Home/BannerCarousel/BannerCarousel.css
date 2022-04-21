@@ -81,7 +81,14 @@
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
-    margin-left: 10px;
+    margin-left: 15px;
+}
+
+.icon-bg-width:hover {
+
+    background-color: #EF6331;
+    transform: scale(1.2);
+    transition: transform ease-in 0.2s;
 }
 
 .icon-bg-width:first-child {

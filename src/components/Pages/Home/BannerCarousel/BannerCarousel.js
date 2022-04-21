@@ -63,20 +63,21 @@ const BannerCarousel = () => {
 
             </Carousel.Item>
         </Carousel>
-                <div className="d-flex w-25 mx-auto gx-2 fixed_item">
-                    <div className=" icon-bg-width">
-                        <img src={icon1} alt="" /> <br />
+            <div className="d-flex w-25 mx-auto gx-2 fixed_item">
+                <div className=" icon-bg-width">
+                    <img src={icon1} alt="" /> <br />
                     <p className="text-white">ACADEMY</p>
-                    </div>
-                    <div className=" icon-bg-width"><img src={icon2} alt="" />
-                    <p className="text-white">ADMISSION</p>
-                    </div>
-                    <div className=" icon-bg-width"><img src={icon3} alt="" />
-                    <p className="text-white">COURSES</p>
-                    </div>
-                    <div className=" icon-bg-width"><img src={icon4} alt="" />
-                    <p className="text-white">SEMINER</p></div>
                 </div>
+                <div className=" icon-bg-width"><img src={icon2} alt="" />
+                    <p className="text-white">ADMISSION</p>
+                </div>
+                <div className=" icon-bg-width"><img src={icon4} alt="" />
+                    <p className="text-white">COURSES</p>
+                </div>
+                <div className=" icon-bg-width"><img src={icon3} alt="" />
+
+                    <p className="text-white">SEMINER</p></div>
+            </div>
 
         </div>
 
