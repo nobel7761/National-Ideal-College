@@ -20,11 +20,12 @@ const BannerCarousel = () => {
                     alt="First slide"
                 />
                 <div className="caption">
-                    <div>                    <h2 className="tittle"> WELCOME TO <span className="tittleLastPart">UNIVERSITY</span></h2>
+                    <div>
+                        <h2> WELCOME TO <span className="tittleLastPart">UNIVERSITY</span></h2>
                         <p className="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
                         <button className=" buttons">ALL COURSES</button>
-                        <button className="ms-5 buttons buttons2">READ MORE</button></div>
-
+                        <button className="ms-5 buttons buttons2">READ MORE</button>
+                    </div>
                 </div>
             </Carousel.Item>
             <Carousel.Item>
@@ -37,7 +38,7 @@ const BannerCarousel = () => {
                 <div className="caption">
 
 
-                    <h2 className="tittle">ADMISSION OPEN <span className="tittleLastPart">2018</span></h2>
+                    <h2>ADMISSION OPEN <span className="tittleLastPart">2018</span></h2>
                     <p className="description">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form</p>
                     <button className=" buttons">ADMISSION</button>
                     <button className="ms-5 buttons buttons2">READ MORE</button>
@@ -53,7 +54,7 @@ const BannerCarousel = () => {
                 <div className="caption">
 
 
-                    <h2 className="tittle">EDUCATION <span className="tittleLastPart">MASTER</span></h2>
+                    <h2>EDUCATION <span className="tittleLastPart">MASTER</span></h2>
                     <p className="description">
                         There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form
                     </p>
