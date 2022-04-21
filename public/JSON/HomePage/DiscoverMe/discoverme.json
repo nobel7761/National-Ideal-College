@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Academics",
+        "image": "/src/images/discover-me/h-about.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Admission",
+        "image": "/src/images/discover-me/h-about.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Students Profile",
+        "image": "/src/images/discover-me/h-about.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Research & Education",
+        "image": "/src/images/discover-me/h-about.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Couse",
+        "image": "/src/images/discover-me/h-about.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Exam Time Line",
+        "image": "/src/images/discover-me/h-about.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Seminar 2018",
+        "image": "/src/images/discover-me/h-about.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Research & Education",
+        "image": "/src/images/discover-me/h-about.jpg"
+    }
+]

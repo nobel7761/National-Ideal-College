@@ -3,10 +3,12 @@ import { Link } from "react-router-dom";
 import { Col, Container, Row } from 'react-bootstrap';
 import './Footer.css';
 import Copyright from './Copyright/Copyright';
+import BookCourse from './BookCourse/BookCourse';
 
 const Footer = () => {
     return (
         <>
+            <BookCourse></BookCourse>
             <div className='footer-container'>
                 <div className="container">
 

@@ -1,0 +1,61 @@
+.book-course{
+    background-color: #F36B3B;
+    padding: 40px 0;
+}
+
+.book-course-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bb-img {
+    padding: 0 15px;
+}
+
+.bb-img img{
+    width: 90px;
+}
+
+.bb-text{
+    padding-left: 15px;
+    padding-right: 95px;
+}
+
+.bb-text h4{
+    color: #fff;
+    font-size: 26px;
+    padding-bottom: 15px;
+    margin-bottom: 0;
+    font-weight: 600;
+    line-height: 24px;
+}
+.bb-text p{
+    color: #fff5f3;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.bb-link {
+
+    width: 260px;
+}
+
+.bb-link a{
+    border: none;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    padding: 15px 20px;
+    line-height: 60px;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.bb-link a:hover{
+    color: white;
+    background-color: #e05725;
+}
