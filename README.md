@@ -10,13 +10,18 @@
 
 ## After Receive Permission Steps I have to merge all branches: 
 
-- collaborate 
-- accept invitation 
-- git branch branchName 
-- git checkout brachName 
-- make change to your code 
-- git add .7.git commit -m "as you need " 
-- git push --set-upstream origin branchName 
-- git merge branchName 
-- git pull 
+- email verification
+- view invitation
+- accept invitation
+- collaborate
+- accept invitation
+- git branch branchName
+- git checkout brachName
+- make change to your code
+- git add .
+- git commit -m "as you need "
+- git push --set-upstream origin branchName
+
+- git merge branchName
+- git pull
 - git push

@@ -14,6 +14,7 @@ import SignUp from './Authentication/SignUp/SignUp';
 import SignIn from './Authentication/SignIn/SignIn';
 
 const MainComponent = () => {
+
     return (
         <div>
             <Header></Header>

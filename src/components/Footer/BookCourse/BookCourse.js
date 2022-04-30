@@ -16,7 +16,7 @@ const BookCourse = () => {
                     </div>
                     <div className="col-md-3 bb-link">
 
-                        <a href=''>Book This Course</a>
+                        <a href='#home'>Book This Course</a>
                     </div>
 
                 </div>
